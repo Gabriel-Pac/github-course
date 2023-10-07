@@ -1,3 +1,5 @@
 #Github
 
-Arquiv da aula  Git e Github para iniciantes!
+Arquivo da aula  Git e Github para iniciantes!
+
+Primeira atualização.
